@@ -1,0 +1,26 @@
+/* css style for trivia game */
+body{
+    background-image: url("../images/background.gif")
+}
+/* .col-md-6{
+text-align: center;
+background-color:#B0C4DE; 
+height: 100%;
+margin:0px;
+}  */
+#title{
+    text-align: center;
+    padding: 50px 0px 0px 0px;
+    color: whitesmoke;
+    font-weight: 900;
+}
+#container{
+background: #F0EFF0 ;
+color: black;
+font-weight: 700;
+align-content: center;
+margin:50px 200px;
+padding: 20px;
+text-align: center;
+}
+
